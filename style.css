@@ -15,7 +15,7 @@ body {
     border-radius: 10px;
     width: 85%;
     max-width: 450PX;
-    min-width: 350px;
+    min-width: 250px;
     display: flex;
     flex-direction: column;
     align-items: center;
